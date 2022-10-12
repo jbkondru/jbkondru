@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbkondru
-- 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Selenium with Java
+- 👀 I’m interested in Web,Mobile,API Automation. 
+- 🌱 I’m currently learning Selenium with Java. AWS for cloud deployments.
 - 💞️ I’m looking to collaborate on Programming using Java 
 - 📫 How to reach me - jagadeesh.kondru@gmail.com
 
